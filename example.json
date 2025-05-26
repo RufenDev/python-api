@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "year": 1954,
+        "author": "William Golding",
+        "title": "Lord of the Flies"
+    },
+    {
+        "id": 2,
+        "year": 1960,
+        "author": "Harper Lee",
+        "title": "To Kill a Mockingbird"
+    },
+    {
+        "id": 3,
+        "year": 1957,
+        "author": "J.R.R. Tolkien",
+        "title": "The Lord of the Rings: The Fellowship of the Ring"
+    },
+    {
+        "id": 4,
+        "year": 1922,
+        "author": "James Joyce",
+        "title": "Ulysses"
+    },
+    {
+        "id": 5,
+        "year": 1965,
+        "author": "Gabriel García Márquez",
+        "title": "One Hundred Years of Solitude"
+    },
+    {
+        "id": 6,
+        "year": 1928,
+        "author": "Franz Kafka",
+        "title": "The Metamorphosis"
+    },
+    {
+        "id": 7,
+        "year": 1997,
+        "author": "J.K. Rowling",
+        "title": "Harry Potter and the Philosopher's Stone"
+    },
+    {
+        "id": 8,
+        "year": 1847,
+        "author": "Charles Dickens",
+        "title": "David Copperfield"
+    },
+    {
+        "id": 9,
+        "year": 1951,
+        "author": "Albert Camus",
+        "title": "The Stranger"
+    },
+    {
+        "id": 10,
+        "year": 1984,
+        "author": "George Orwell",
+        "title": "Nineteen Eighty-Four"
+    },
+    {
+        "id": 11,
+        "year": 1952,
+        "author": "Jack Kerouac",
+        "title": "On the Road"
+    },
+    {
+        "id": 12,
+        "year": 1813,
+        "author": "Mary Shelley",
+        "title": "Frankenstein"
+    },
+    {
+        "id": 13,
+        "year": 1937,
+        "author": "Antoine de Saint-Exupéry",
+        "title": "The Little Prince"
+    },
+    {
+        "id": 14,
+        "year": 1959,
+        "author": "Leo Tolstoy",
+        "title": "War and Peace"
+    },
+    {
+        "id": 15,
+        "year": 1925,
+        "author": "F. Scott Fitzgerald",
+        "title": "The Great Gatsby"
+    },
+    {
+        "id": 16,
+        "year": 1993,
+        "author": "Toni Morrison",
+        "title": "Beloved"
+    },
+    {
+        "id": 17,
+        "year": 1897,
+        "author": "H.G. Wells",
+        "title": "The War of the Worlds"
+    },
+    {
+        "id": 18,
+        "year": 1932,
+        "author": "John Steinbeck",
+        "title": "The Grapes of Wrath"
+    },
+    {
+        "id": 19,
+        "year": 2003,
+        "author": "Khaled Hosseini",
+        "title": "The Kite Runner"
+    },
+    {
+        "id": 20,
+        "year": 1818,
+        "author": "Mary Shelley",
+        "title": "Frankenstein"
+    }
+]

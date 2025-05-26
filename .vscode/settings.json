@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 4,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/__init__.py": true,
+    "venv": true,
+  }
+}
